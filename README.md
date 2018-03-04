@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of PSC](http://archive.lapointelibertaire.org/files/images/CartePteSt-CharlesSmall.preview.jpg)
 
-### Markdown
+### Mission Statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our Mission is to highlight stories and expeirences from Point St. Charles residents. We want to make the voices of the community heard by giving them a platform to interact with the public and start a discourse for important issues.
 
 ```markdown
 Syntax highlighted code block
