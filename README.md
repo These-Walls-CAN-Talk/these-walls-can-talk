@@ -1,4 +1,4 @@
-## Welcome to the These Walls CAN Talk Project
+# Welcome to the These Walls CAN Talk Project
 
 You can use the [Map](https://www.google.ca/maps/place/Pointe-Saint-Charles,+Montreal,+QC/@45.4802419,-73.5639897,15.25z/data=!4m13!1m7!3m6!1s0x4cc91a80e020ab4d:0x2372fdb8bb578dc4!2sPointe-Saint-Charles,+Montreal,+QC!3b1!8m2!3d45.4802728!4d-73.55874!3m4!1s0x4cc91a80e020ab4d:0x2372fdb8bb578dc4!8m2!3d45.4802728!4d-73.55874) to get a street level view of any of the places you see on the site.
 
