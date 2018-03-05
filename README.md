@@ -9,7 +9,7 @@ You can use the [Map](https://www.google.ca/maps/place/Pointe-Saint-Charles,+Mon
 
 Our Mission is to highlight stories and expeirences from Point St. Charles residents. We want to make the voices of the community heard by giving them a platform to interact with the public and start a discourse for important issues.
 
-```markdown
+
 ## _A Bit on Point Saint Charles_
 
 Point Saint Charles is a neighbourhood in the city of Montreal. Historically it was a very working class area, and was a booming site of industry through its strategic location beside the Lachine Canal. This, coupled with traintracks running right through the borough made "The Point" a relatively stable neighbourhood until the 1960s, when the canal was closed in favour of the St. Lawrence Seaway. The neighbourhood slowly declined with frequent layoffs and little employment opportunity, but The Point has been a poster child for community solidarity by forming outreach programs and community organizations. Today, Point Saint Charles is still an impoverished area, but is slowly getting back on its feet with a solid foundation in community involvement.
