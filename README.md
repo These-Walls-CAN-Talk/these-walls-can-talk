@@ -5,6 +5,10 @@ You can use the [Map](https://www.google.ca/maps/place/Pointe-Saint-Charles,+Mon
 
 ![Image of PSC](http://archive.lapointelibertaire.org/files/images/CartePteSt-CharlesSmall.preview.jpg)
 
+## What is _These Walls CAN talk?_
+
+The project started as an idea to promote voices of Montreal's burough Point Saint Charles, and get people interested in this impoverished community. Point Saint Charles has a very involved community, and we wanted to spotlight it in a far reaching format while still making it feel interactive and allow for discussion. 
+
 ## Mission Statement
 
 Our Mission is to highlight stories and expeirences from Point St. Charles residents. We want to make the voices of the community heard by giving them a platform to interact with the public and start a discourse for important issues.
@@ -13,6 +17,12 @@ Our Mission is to highlight stories and expeirences from Point St. Charles resid
 ### _A Bit on Point Saint Charles_
 
 > Point Saint Charles is a neighbourhood in the city of Montreal. Historically it was a very working class area, and was a booming site of industry through its strategic location beside the Lachine Canal. This, coupled with traintracks running right through the borough made "The Point" a relatively stable neighbourhood until the 1960s, when the canal was closed in favour of the St. Lawrence Seaway. The neighbourhood slowly declined with frequent layoffs and little employment opportunity, but The Point has been a poster child for community solidarity by forming outreach programs and community organizations. Today, Point Saint Charles is still an impoverished area, but is slowly getting back on its feet with a solid foundation in community involvement.
+
+<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1520366206162");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
 
 [Link](url) and ![Image](src)
 ```
