@@ -24,7 +24,7 @@ Our Mission is to highlight stories and expeirences from Point St. Charles resid
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1520366206162");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,3 +32,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### What You Can Expect
 
 Our goal is to hear from you! Various stories from the community will be presented here for your viewing, so you can see _Point Saint Charles_ from different walks of life. Interested in getting your story on the site? Let us know at @thesewallscantalk@outlook.com
+
+
+## Point Saint Charles Spotlight #2: Patrick de Gruyter
+
+Patrick de Gruytern has been working with Saint Columba for only three years, but has already become a central pillar of the community. Born in Germany, he came to Canada and did his Undergrad at Concordia University, then after a brief internship became senior project coordinator. Here his story below!
+
+<audio src="audio.mp3" controls preload></audio>
