@@ -25,11 +25,15 @@ Our Mission is to highlight stories and expeirences from Point St. Charles resid
 <!-- end www.htmlcommentbox.com -->
 
 
-
-
 ## What You Can Expect
 
 Our goal is to hear from you! Various stories from the community will be presented here for your viewing, so you can see _Point Saint Charles_ from different walks of life. Interested in getting your story on the site? Let us know at @thesewallscantalk@outlook.com
+
+### Point Saint Charles Spotlight #1: Shaen Johnston
+
+Shaen Johnston ended up in the Point quite by accident, but she's been in love with it ever since! In her seven years in the point she was fiercely active in the community, fought for social housing and community outreach programs, and to this day is immensely proud of her adopted community. She told us her story during a walk around the point, showing us some hidden gems in the point and some places that could use some support and awareness. Follow our walk with the map below, each colour indicates a different part of the interview.
+
+
 
 
 ### Point Saint Charles Spotlight #2: Patrick de Gruyter
@@ -40,7 +44,11 @@ Patrick de Gruytern has been working with Saint Columba for only three years, bu
 <audio src="Interview Patrick2of3.mp3" controls preload>
 <audio src="Interview Patrick3of3.mp3" controls preload>
 
-
+<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1520366206162");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
 
 
 
