@@ -7,7 +7,7 @@ You can use the [Map](https://www.google.ca/maps/place/Pointe-Saint-Charles,+Mon
 
 ## What is _These Walls CAN talk?_
 
-The project started as an idea to promote voices of Montreal's borough Point Saint Charles, and get people interested in this impoverished community. Point Saint Charles has a very involved community, and we wanted to spotlight it in a far reaching format while still making it feel interactive and allow for discussion. Our goal is to 
+The project started as an idea to promote voices of Montreal's borough Point Saint Charles, and get people interested in this impoverished community. Point Saint Charles has a very involved community, and we wanted to spotlight it in a far reaching format while still making it feel interactive and allow for discussion.
 
 ## Mission Statement
 
