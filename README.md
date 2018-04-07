@@ -25,9 +25,7 @@ Our Mission is to highlight stories and expeirences from Point St. Charles resid
 <!-- end www.htmlcommentbox.com -->
 
 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## What You Can Expect
 
