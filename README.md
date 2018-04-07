@@ -29,12 +29,12 @@ Our Mission is to highlight stories and expeirences from Point St. Charles resid
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### What You Can Expect
+## What You Can Expect
 
 Our goal is to hear from you! Various stories from the community will be presented here for your viewing, so you can see _Point Saint Charles_ from different walks of life. Interested in getting your story on the site? Let us know at @thesewallscantalk@outlook.com
 
 
-## Point Saint Charles Spotlight #2: Patrick de Gruyter
+### Point Saint Charles Spotlight #2: Patrick de Gruyter
 
 Patrick de Gruytern has been working with Saint Columba for only three years, but has already become a central pillar of the community. Born in Germany, he came to Canada and did his Undergrad at Concordia University, then after a brief internship became senior project coordinator. Here his story below!
 
