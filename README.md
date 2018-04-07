@@ -11,7 +11,7 @@ The project started as an idea to promote voices of Montreal's borough Point Sai
 
 ## Mission Statement
 
-Our Mission is to highlight stories and expeirences from Point St. Charles residents. We want to make the voices of the community heard by giving them a platform to interact with the public and start a discourse for important issues.
+Our Mission is to highlight stories and expeirences from Point Saint Charles residents. We want to make the voices of the community heard by giving them a platform to interact with the public and start a discourse for important issues.
 
 
 ### _A Bit on Point Saint Charles_
