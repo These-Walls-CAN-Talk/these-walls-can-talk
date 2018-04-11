@@ -24,7 +24,7 @@ Our Mission is to highlight stories and expeirences from Point Saint Charles res
 
 Our goal is to hear from you! Various stories from the community will be presented here for your viewing, so you can see _Point Saint Charles_ from different walks of life. Interested in getting your story on the site? Let us know at @thesewallscantalk@outlook.com
 
-###[Point Saint Charles Spotlight #1: Shaen Johnston](./Page1)
+### [Point Saint Charles Spotlight #1: Shaen Johnston](./Page1)
 
 
 ### Point Saint Charles Spotlight #2: Patrick de Gruyter
