@@ -1,4 +1,4 @@
-### Point Saint Charles Spotlight #2: Patrick de Gruyter
+## Point Saint Charles Spotlight #2: Patrick de Gruyter
 
 Patrick de Gruyter has been working with Saint Columba for only three years, but has already become a central pillar of the community. Born in Germany, he came to Canada and did his Undergrad at Concordia University, then after a brief internship became senior project coordinator. Here his story below!
 
@@ -11,6 +11,8 @@ Patrick de Gruyter has been working with Saint Columba for only three years, but
 [Home](../)
 
 Not a listener? read the full interview below!
+
+## Transcription Patrick de Gruyter
 
 Editorial Note:
 There are moments where the interview is interrupted by people entering the office to speak to the interviewee, however these moments have been in the recording for the sake of the recordings flow. These moments will however be left out of the transcription. 
