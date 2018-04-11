@@ -10,6 +10,8 @@ Patrick de Gruyter has been working with Saint Columba for only three years, but
 
 [Home](../)
 
+Not a listener? read the full interview below!
+
 Editorial Note:
 There are moments where the interview is interrupted by people entering the office to speak to the interviewee, however these moments have been in the recording for the sake of the recordings flow. These moments will however be left out of the transcription. 
 
