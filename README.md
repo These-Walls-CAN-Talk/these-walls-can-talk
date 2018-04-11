@@ -19,7 +19,6 @@ Our Mission is to highlight stories and expeirences from Point Saint Charles res
 > Point Saint Charles is a neighbourhood in the city of Montreal. Historically it was a very working class area, and was a booming site of industry through its strategic location beside the Lachine Canal. This, coupled with traintracks running right through the borough made "The Point" a relatively stable neighbourhood until the 1960s, when the canal was closed in favour of the St. Lawrence Seaway. The neighbourhood slowly declined with frequent layoffs and little employment opportunity, but The Point has been a poster child for community solidarity by forming outreach programs and community organizations. Today, Point Saint Charles is still an impoverished area, but is slowly getting back on its feet with a solid foundation in community involvement.
 
 
-
 ## What You Can Expect
 
 Our goal is to hear from you! Various stories from the community will be presented here for your viewing, so you can see _Point Saint Charles_ from different walks of life. Interested in getting your story on the site? Let us know at @thesewallscantalk@outlook.com
@@ -29,19 +28,9 @@ Our goal is to hear from you! Various stories from the community will be present
 
 ### [Point Saint Charles Spotlight #2: Patrick de Gruyter](./Spotlight2)
 
-Patrick de Gruytern has been working with Saint Columba for only three years, but has already become a central pillar of the community. Born in Germany, he came to Canada and did his Undergrad at Concordia University, then after a brief internship became senior project coordinator. Here his story below!
-
-<audio src="Interview Patrick1of3.mp3" controls preload></audio>
-
-<audio src="Interview Patrick2of3.mp3" controls preload></audio>
-
-<audio src="Interview Patrick3of3.mp3" controls preload></audio>
 
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24fh%2FXW1SDc.qMjVZ6zZtgb0"+"&opts=16862&num=10&ts=1523414394268");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
-
-
-
