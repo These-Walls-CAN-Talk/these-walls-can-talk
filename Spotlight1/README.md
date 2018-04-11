@@ -4,7 +4,7 @@ Shaen Johnston ended up in the Point quite by accident, but she's been in love w
 
 ![audiowalk](../Images/CartePteSt-PSC-Shaen-audiowalk%20with%20parts.jpg)
 
-<audio src="../Audio/Interview Patrick3of3.mp3" controls preload></audio>
+<audio src="../Audio/Shane interview Part1.mp3" controls preload></audio>
 
 [Home](../)
 
