@@ -40,11 +40,11 @@ Shaen Johnston ended up in the Point quite by accident, but she's been in love w
 
 Patrick de Gruytern has been working with Saint Columba for only three years, but has already become a central pillar of the community. Born in Germany, he came to Canada and did his Undergrad at Concordia University, then after a brief internship became senior project coordinator. Here his story below!
 
-<audio src="Interview Patrick1of3.mp3" controls preload>
+<audio src="Interview Patrick1of3.mp3" controls preload/>
 
-<audio src="Interview Patrick2of3.mp3" controls preload>
+<audio src="Interview Patrick2of3.mp3" controls preload/>
 
-<audio src="Interview Patrick3of3.mp3" controls preload>
+<audio src="Interview Patrick3of3.mp3" controls preload/>
 
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
