@@ -4,23 +4,23 @@ Shaen Johnston ended up in the Point quite by accident, but she's been in love w
 
 ![audiowalk](../Images/CartePteSt-PSC-Shaen-audiowalk%20with%20parts.jpg)
 
-<audio src="../Audio/Shaen Introduction.mp3" controls preload></audio>
+P1 <audio src="../Audio/Shaen Introduction.mp3" controls preload></audio>
 
-<audio src="../Audio/Shane interview Part1.mp3" controls preload></audio>
+P1 <audio src="../Audio/Shane interview Part1.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen interview2.mp3" controls preload></audio>
+P2 <audio src="../Audio/Shaen interview2.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen interview3.mp3" controls preload></audio>
+P3 <audio src="../Audio/Shaen interview3.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen Interview4.mp3" controls preload></audio>
+P4<audio src="../Audio/Shaen Interview4.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen interview5.mp3" controls preload></audio>
+P5 <audio src="../Audio/Shaen interview5.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen interview6.mp3" controls preload></audio>
+P6 <audio src="../Audio/Shaen interview6.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen Interview7.mp3" controls preload></audio>
+P7 <audio src="../Audio/Shaen Interview7.mp3" controls preload></audio>
 
-<audio src="../Audio/Shaen interview8.mp3" controls preload></audio>
+P8 <audio src="../Audio/Shaen interview8.mp3" controls preload></audio>
 
 [Home](../)
 
