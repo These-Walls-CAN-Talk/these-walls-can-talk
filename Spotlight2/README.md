@@ -8,6 +8,8 @@ P2 <audio src="../Audio/Interview Patrick2of3.mp3" controls preload></audio>
 
 P3 <audio src="../Audio/Interview Patrick3of3.mp3" controls preload></audio>
 
+<iframe src="https://giphy.com/embed/ukQrwU50XS6TY9Xd1z" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trains-train-psc-pointsaintcharles-ukQrwU50XS6TY9Xd1z">via GIPHY</a></p>
+
 ![Point Saint Charles Trains](https://media.giphy.com/gifs/trains-train-psc-pointsaintcharles-ukQrwU50XS6TY9Xd1zgiphy.gif)
 
 [Home](../)
