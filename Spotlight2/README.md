@@ -8,6 +8,8 @@ P2 <audio src="../Audio/Interview Patrick2of3.mp3" controls preload></audio>
 
 P3 <audio src="../Audio/Interview Patrick3of3.mp3" controls preload></audio>
 
+![Point Saint Charles Trains](https://media.giphy.com/gifs/trains-train-psc-pointsaintcharles-ukQrwU50XS6TY9Xd1zgiphy.gif)
+
 [Home](../)
 
 Not a listener? read the full interview below!
