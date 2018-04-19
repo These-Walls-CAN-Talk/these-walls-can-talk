@@ -36,7 +36,7 @@ The public library of Pointe St. Charles. This building was originally the local
 
 ![filledurois](../Images/psckingsgirls.jpg)
 
-### La Filles du Roy
+### La Filles du Rois
 Commemorative mural created to honour and remember the women that moved from France to Quebec in the seventeenth century to help lead the next generation. 
 
 [Home](../)
