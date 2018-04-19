@@ -22,6 +22,23 @@ P7 <audio src="../Audio/Shaen Interview7.mp3" controls preload></audio>
 
 P8 <audio src="../Audio/Shaen interview8.mp3" controls preload></audio>
 
+If you want to see the sites she mentioned here are some photos!
+
+![mural](../Images/pscmural.jpg)
+
+Murale Sur Le Viaduc
+Commemorative mural created to Pointe St. Charles, celebrating diversity, activism, and local history - past, present, and future. 
+
+![library](../Images/psclibrary.jpg)
+
+Saint Charles Library 
+The public library of Pointe St. Charles. This building was originally the local fire station and was to be demolished in 1973. However, due to public pressure, the building was saved, and converted into the local library that you can still see today.
+
+![filledurois](../Images/psckingsgirls.jpg)
+
+La Filles du Roy
+Commemorative mural created to honour and remember the women that moved from France to Quebec in the seventeenth century to help lead the next generation. 
+
 [Home](../)
 
 Not a listener? read the full interview below!
