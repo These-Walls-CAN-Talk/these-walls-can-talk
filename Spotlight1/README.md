@@ -39,7 +39,7 @@ The public library of Pointe St. Charles. This building was originally the local
 ### La Filles du Rois
 Commemorative mural created to honour and remember the women that moved from France to Quebec in the seventeenth century to help lead the next generation. 
 
-[Home](../)
+### [Home](../)
 
 Not a listener? read the full interview below!
 
